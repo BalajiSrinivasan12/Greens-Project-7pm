@@ -14,10 +14,10 @@ public class BrowserLaunch {
 		WebDriver driver=new ChromeDriver();
 		
 
-		driver.get("https://www.facebook.com/");
+		driver.get("https://www.twitter.com/");
 		
 		
-		System.out.println("Hi");
+		System.out.println("ALL DONE");
 
 	}
 }
