@@ -19,5 +19,8 @@ public class BrowserLaunch {
 		
 		System.out.println("Hello World");
 
+		System.out.println("Hi");
+
+
 	}
 }
