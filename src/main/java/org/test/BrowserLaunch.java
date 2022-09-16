@@ -17,7 +17,10 @@ public class BrowserLaunch {
 		driver.get("https://www.facebook.com/");
 		
 		
+		System.out.println("Hello World");
+
 		System.out.println("Hi");
+
 
 	}
 }
